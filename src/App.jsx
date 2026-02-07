@@ -36,7 +36,7 @@ function App() {
     <div
       className="app"
     >
-      <h1>Todo Appp</h1>
+      <h1>Todo App</h1>
 
       <TodoInput
         text={text}
